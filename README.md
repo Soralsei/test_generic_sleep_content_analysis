@@ -1,6 +1,6 @@
 # Generic Content Analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vvercasson/pdp_project/HEAD?labpath=jupyter_notebook_generic_content_analysis.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soralsei/test_generic_sleep_content_analysis/HEAD?labpath=jupyter_notebook_generic_content_analysis.ipynb) 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a
